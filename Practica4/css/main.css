@@ -1,8 +1,8 @@
-. sz {
-    altura : 400 px ;
-    acolchado : 1 rem ;
+.sz{
+    height: 400px;
+    padding: 1rem;
 }
 
-# xxx {
-    color de fondo : azul;
+#xxx{
+    background-color: blue;
 }
